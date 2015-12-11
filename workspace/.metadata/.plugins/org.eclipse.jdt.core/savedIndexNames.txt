@@ -12,6 +12,5 @@ INDEX VERSION 1.126+C:\Users\user\Documents\GitHub\helloworld\workspace\.metadat
 1784562738.index
 148370287.index
 3609298198.index
-562972167.index
 4228706428.index
 90360425.index
